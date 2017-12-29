@@ -10,6 +10,7 @@ namespace EFQuery
     {
         static void Main(string[] args)
         {
+
         }
     }
 }

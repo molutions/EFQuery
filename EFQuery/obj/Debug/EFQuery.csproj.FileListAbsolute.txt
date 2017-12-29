@@ -1,1 +1,10 @@
 C:\Users\Mohamed\Desktop\Projects\EFQuery\EFQuery\bin\Debug\EFQuery.exe.config
+C:\Users\Mohamed\Desktop\Projects\EFQuery\EFQuery\bin\Debug\EFQuery.exe
+C:\Users\Mohamed\Desktop\Projects\EFQuery\EFQuery\bin\Debug\EFQuery.pdb
+C:\Users\Mohamed\Desktop\Projects\EFQuery\EFQuery\bin\Debug\EntityFramework.dll
+C:\Users\Mohamed\Desktop\Projects\EFQuery\EFQuery\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Mohamed\Desktop\Projects\EFQuery\EFQuery\bin\Debug\EntityFramework.xml
+C:\Users\Mohamed\Desktop\Projects\EFQuery\EFQuery\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Mohamed\Desktop\Projects\EFQuery\EFQuery\obj\Debug\EFQuery.csprojResolveAssemblyReference.cache
+C:\Users\Mohamed\Desktop\Projects\EFQuery\EFQuery\obj\Debug\EFQuery.exe
+C:\Users\Mohamed\Desktop\Projects\EFQuery\EFQuery\obj\Debug\EFQuery.pdb
